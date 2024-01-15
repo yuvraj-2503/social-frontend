@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195737659353",
+    "project_id": "social-media-app-d781f",
+    "storage_bucket": "social-media-app-d781f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195737659353:android:6880ed6985ce1fd6349bc8",
+        "android_client_info": {
+          "package_name": "com.dry.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCcEuNF0dqaRcPn04M5S5QisqZFnmhIf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
